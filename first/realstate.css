@@ -43,17 +43,6 @@ body{
 
       
 }  
-
-/* log{
-    width: 100%;
-    position: fixed;
-    top: 0;
-    right: 0;
-    z-index: 100;
-    padding: 30px 15% 15px;
-    height: auto;
-} */
-
 .navbar{
     display: flex;
 }
@@ -108,7 +97,6 @@ body{
  }
  .h-btn1{
      color: var(--other-color);
-    /* transform: translateX(-7px);  */
     font-size: 18px;
     
 
@@ -506,25 +494,6 @@ header.sticky{
         grid-template-columns: 1fr;
         display: flex;
     }
-} 
-.singup form{
-    align-items: center;
-    width: 410px;
-    max-width: 100%;
-    margin-top: 20%;
-    transform: translateX(100px);
-    justify-content: space-between;
-
-}
-.singup form input:first-child{
-display: inline-block;
-width: 50%;
-border-radius: 2px;
-padding: 2px;
-margin: 2px;
-align-items: center;
-justify-content: center;
-align-content: center;
 } 
 
 
