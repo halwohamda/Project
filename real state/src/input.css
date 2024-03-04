@@ -1,4 +1,4 @@
-/* @tailwind base;
+@tailwind base;
 @tailwind components;
 @tailwind utilities;
 *{
@@ -118,4 +118,4 @@ h2{
     justify-content: center;
     align-items: center;
 
-} */
+}
