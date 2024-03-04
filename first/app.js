@@ -10,6 +10,6 @@ menu.onclick = () =>{
     navbar.classList.toggle('open');
 // };
 // window.onscroll = () =>{
-    // menu.classList.remove('bx-x');
-    // navbar.classList.remove('open');
+    menu.classList.remove('bx-x');
+    navbar.classList.remove('open');
 }
